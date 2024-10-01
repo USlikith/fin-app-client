@@ -137,7 +137,7 @@ export default function MiniDrawer() {
             Mini variant drawer
           </Typography>
         </Toolbar>
-    <Toolbar sx={{marginRight:"5vw"}}>
+    <Toolbar sx={{marginRight:"2vw"}}>
         <SearchAppBar/>
     </Toolbar>
       </AppBar>
